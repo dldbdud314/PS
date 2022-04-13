@@ -7,8 +7,12 @@ def solution(orders, course):
         menu_set.update(list(order))
     ans = []
     for x in course:
-        combinations_list = list(combinations(menu_set, x))
-        combinations_set_list = list(map(set, combinations_list))
+        combinations_list = list(map(lambda m : list(combinations(m, x)), order_set_list))
+        combinations_set = set()
+        for combination in combinations_list:
+            for e in combination:
+                combinations_set.add(e)
+        combinations_set_list = list(map(set, combinations_set))
         
         largest_combination = []
         largest = -float('inf')
@@ -23,8 +27,4 @@ def solution(orders, course):
             elif cnt == largest:
                 largest_combination.append(combination)
         ans.extend([''.join(sorted(list(x))) for x in largest_combination])
-    return sorted(ans)
-
-print(solution(["XYZ", "XWY", "WXA"], [2,3,4]))
-
-#13, 14, 15 시간초과
+    return sorted(list(set(ans)))
