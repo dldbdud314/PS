@@ -8,3 +8,4 @@
 |[단어변환](https://github.com/dldbdud314/programmers_py/blob/master/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)|BFS||
 |[신고결과받기](https://github.com/dldbdud314/programmers_py/blob/master/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.py)|구현|dictionary, list, 문자열 활용|
 |[순위검색](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|구현, 탐색|무식하게 풀면 무조건 효율성 통과 못하는듯.. 빠른 탐색 방법으로 교체할 것|
+|[메뉴리뉴얼](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)|완전탐색|테스트케이스 13, 14, 15 시간 초과 -> 역시 시간복잡도를 줄이는 방식 고민해봐야..|
