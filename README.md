@@ -10,3 +10,4 @@
 |[순위검색](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|구현, 탐색|무식하게 풀면 무조건 효율성 통과 못하는듯.. 빠른 탐색 방법으로 교체할 것|
 |[메뉴리뉴얼](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)|완전탐색|시간초과 수정-combinations의 종류 제한할 것! 조합은 곧 팩토리얼 계산! 시간복잡도 주의..|
 |[2606-바이러스](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2606.py)|BFS|가장 간단한 형태의 문제일듯|
+|[키패드누르기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.py)|구현||
