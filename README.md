@@ -12,3 +12,4 @@
 |[2606-바이러스](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2606.py)|BFS|가장 간단한 형태의 문제일듯|
 |[키패드누르기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.py)|구현||
 |[수식최대화](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)|완전탐색|pop연산 시 인덱스 변화 염두에 둘 것!|
+|[튜플](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%8A%9C%ED%94%8C.py)|구현|문자열 처리가 관건|
