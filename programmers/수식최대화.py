@@ -28,11 +28,11 @@ def solution(expression):
     #3. 각 순위별 연산 작업
     results = []
     for order in operator_orders:
+        operand_copy = operand[:]
+        operator_copy = operator[:]
         for op in order:
-            operand_copy = operand
-            operator_copy = operator
-            while op in operator:
-                idx = operator.index(op)
+            while op in operator_copy:
+                idx = operator_copy.index(op)
                 res = calculate(operand_copy[idx], operand_copy[idx+1], operator_copy[idx])
                 operand_copy.pop(idx)
                 operand_copy.pop(idx)
@@ -41,7 +41,3 @@ def solution(expression):
         results.append(abs(operand_copy[0]))
     
     return max(results)
-    
-print(solution("100-200*300-500+20"))
-
-#구린_풀이
