@@ -13,3 +13,5 @@
 |[키패드누르기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.py)|구현||
 |[수식최대화](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)|완전탐색|pop연산 시 인덱스 변화 염두에 둘 것!|
 |[튜플](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%8A%9C%ED%94%8C.py)|구현|문자열 처리가 관건|
+|[14888. 연산자끼워넣기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14888.py)|재귀..말고 그냥 for문ㅎ..||
+|[2504. 괄호의값](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2504.py)|스택 응용|고려해야 할 케이스가 많아서 까다로웠음! 값 저장 어떻게할지 생각해내는 게 관건..|
