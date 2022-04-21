@@ -15,4 +15,6 @@
 |[튜플](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%8A%9C%ED%94%8C.py)|구현|문자열 처리가 관건|
 |[14888. 연산자끼워넣기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14888.py)|재귀..말고 그냥 for문ㅎ..||
 |[2504. 괄호의값](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2504.py)|스택 응용|고려해야 할 케이스가 많아서 까다로웠음! 값 저장 어떻게할지 생각해내는 게 관건..|
-|[14719. 빗물](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14719.py)|구현|아이디어 생각하기까지가 오래 걸린 문제! 아이디어만 떠올리면 |
+|[14719. 빗물](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14719.py)|구현|아이디어 생각하기까지가 오래 걸린 문제! 아이디어만 떠올리면 괜춘|
+|[16953. A->B](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16953.py)|BFS|쉬운 편|
+|[12851. 숨바꼭질2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12851.py)|BFS|방법의 수 기록, 경우의 수 가지치기 생각하는 게 어려웠음|
