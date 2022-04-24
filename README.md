@@ -7,7 +7,7 @@
 |[네트워크](https://github.com/dldbdud314/programmers_py/blob/master/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|DFS|반례 생각 못해서 계속 실패->양방향 그래프로 수정 및 DFS|
 |[단어변환](https://github.com/dldbdud314/programmers_py/blob/master/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)|BFS||
 |[신고결과받기](https://github.com/dldbdud314/programmers_py/blob/master/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.py)|구현|dictionary, list, 문자열 활용|
-|[순위검색](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|구현, 탐색|무식하게 풀면 무조건 효율성 통과 못하는듯.. 빠른 탐색 방법으로 교체할 것|
+|[순위검색](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|구현, 탐색|무식하게 풀면 무조건 효율성 통과 못하는듯.. 빠른 탐색 방법으로 교체할 것<br>_교체완: dictionary+이분탐색_|
 |[메뉴리뉴얼](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)|완전탐색|시간초과 수정-combinations의 종류 제한할 것! 조합은 곧 팩토리얼 계산! 시간복잡도 주의..|
 |[2606-바이러스](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2606.py)|BFS|가장 간단한 형태의 문제일듯|
 |[키패드누르기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.py)|구현||
@@ -19,4 +19,4 @@
 |[16953. A->B](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16953.py)|BFS|쉬운 편|
 |[12851. 숨바꼭질2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12851.py)|BFS|방법의 수 기록, 경우의 수 가지치기 생각하는 게 어려웠음|
 
-- To fix + add: 순위검색, 보석쇼핑, 15486
+- To fix + add: 보석쇼핑, 15486
