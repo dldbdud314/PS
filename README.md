@@ -18,5 +18,7 @@
 |[14719. 빗물](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14719.py)|구현|아이디어 생각하기까지가 오래 걸린 문제! 아이디어만 떠올리면 괜춘|
 |[16953. A->B](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16953.py)|BFS|쉬운 편|
 |[12851. 숨바꼭질2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12851.py)|BFS|방법의 수 기록, 경우의 수 가지치기 생각하는 게 어려웠음|
+|[3568](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/3568.py)|구현||
+|[주차요금계산](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)|구현||
 
 - To fix + add: 보석쇼핑, 15486
