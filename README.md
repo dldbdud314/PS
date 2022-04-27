@@ -20,5 +20,6 @@
 |[12851. 숨바꼭질2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12851.py)|BFS|방법의 수 기록, 경우의 수 가지치기 생각하는 게 어려웠음|
 |[3568](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/3568.py)|구현||
 |[주차요금계산](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)|구현||
+|[1806. 부분합](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1806.py)|투포인터||
 
 - To fix + add: 보석쇼핑, 15486
