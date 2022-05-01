@@ -22,5 +22,6 @@
 |[주차요금계산](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)|구현||
 |[1806. 부분합](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1806.py)|투포인터||
 |[보석쇼핑](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)|투포인터||
+|[N으로표현](https://github.com/dldbdud314/PS_py/blob/master/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.py)|DP||
 
 - To fix + add: 15486
