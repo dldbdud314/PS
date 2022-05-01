@@ -1,38 +1,42 @@
-def solution(n, k, cmd):
-    table = [True] * n
-    del_stack = []
-    ptr = k
-    last_idx = n-1 #'True'인 마지막 인덱스  
-    for c in cmd:
-        print(table, ptr)
-        if c[0] == 'C':
-            table[ptr] = False
-            del_stack.append(ptr)
-            if ptr == last_idx:
-                while not table[ptr]: ptr -= 1
-                last_idx = ptr
-            else:
-                while not table[ptr] and ptr < last_idx: ptr += 1
-        elif c[0] == 'Z':
-            restored_idx = del_stack.pop()
-            table[restored_idx] = True
-            if restored_idx > last_idx: last_idx = restored_idx
-        elif c[0] == 'U':
-            move = int(c[2])
-            survived = list({i for i in range(n)} - set(del_stack))
-            move %= len(survived)
-            cnt = 0
-            while cnt < move:
-                ptr -= 1
-                if table[ptr]: cnt += 1
-        else:
-            move = int(c[2])
-            survived = list({i for i in range(n)} - set(del_stack))
-            move %= len(survived)
-            cnt = 0
-            while cnt < move:
-                ptr += 1
-                if table[ptr]: cnt += 1
-    return ''.join(['O' if table[i] else 'X' for i in range(n)])
+def initialize_linked_list(n):
+    linked_list = [dict() for _ in range(n)]
+    linked_list[0] = {'lp': -1, 'rp': 1} #-1은 end of list를 의미함
+    for i in range(1, n-1):
+        linked_list[i] = {'lp': i - 1, 'rp': i + 1}
+    linked_list[n-1] = {'lp': n - 2, 'rp': -1}
+    return linked_list
 
+def solution(n, k, cmd):
+    linked_list = initialize_linked_list(n)
+    cp = k
+    total_set = {i for i in range(n)}
+    del_stack = []
+    for x in cmd:
+        if x[0] == 'U':
+            move = int(x[2])
+            cur_list = list(total_set - set(del_stack))
+            cp = cur_list[cur_list.index(cp) - move]
+        elif x[0] == 'D':
+            move = int(x[2])
+            cur_list = list(total_set - set(del_stack))
+            cp = cur_list[cur_list.index(cp) + move]
+        elif x[0] == 'C':
+            del_stack.append(cp)
+            left_idx = linked_list[cp]['lp']
+            right_idx = linked_list[cp]['rp']
+            if right_idx == -1: #cp == last node
+                linked_list[left_idx]['rp'] = -1
+                cp = left_idx
+            else:    
+                linked_list[left_idx]['rp'] = right_idx
+                linked_list[right_idx]['lp'] = left_idx
+                cp = right_idx       
+        elif x[0] == 'Z':
+            new_idx = del_stack.pop()
+            left_idx = linked_list[new_idx]['lp']
+            right_idx = linked_list[new_idx]['rp']
+            linked_list[left_idx]['rp'] = new_idx
+            linked_list[right_idx]['lp'] = new_idx
+    return ''.join(['X' if i in set(del_stack) else 'O' for i in range(n)])
+    
 print(solution(8, 2, ["D 2","C","U 3","C","D 4","C","U 2","Z","Z"]))
