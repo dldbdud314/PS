@@ -23,5 +23,6 @@
 |[1806. 부분합](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1806.py)|투포인터||
 |[보석쇼핑](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)|투포인터||
 |[N으로표현](https://github.com/dldbdud314/PS_py/blob/master/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.py)|DP||
+|[1890](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1890.py)|DP||
 
 - To fix + add: 15486, 표편집(링크드리스트로 구현 -> still 정확성 일부 통과 x, 효율성 시간초과)
