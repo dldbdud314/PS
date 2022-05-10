@@ -26,6 +26,7 @@
 |[1890](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1890.py)|DP||
 |[표편집](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%91%9C%ED%8E%B8%EC%A7%91.py)|링크드리스트 구현|쉽지않...ㄷㅏ..|
 |[등굣길](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%93%B1%EA%B5%A3%EA%B8%B8.py)|DP||
-|[전화번호목록](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)|해시||
-
+|[완주하지못한선수](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)|해시|코테강의 풀이방식 포함|
+|[전화번호목록](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)|해시||
+|[체육복](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)|그리디|코테강의 풀이방식 학습|
 - To fix + add: 15486, 
