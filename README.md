@@ -29,4 +29,5 @@
 |[완주하지못한선수](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py)|해시|코테강의 풀이방식 포함|
 |[전화번호목록](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)|해시||
 |[체육복](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)|그리디|코테강의 풀이방식 학습|
-- To fix + add: 15486, 
+|[단지번호붙이기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2667.py)|DFS||
+- To fix + add: 15486
