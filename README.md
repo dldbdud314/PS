@@ -30,4 +30,6 @@
 |[전화번호목록](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)|해시||
 |[체육복](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)|그리디|코테강의 풀이방식 학습|
 |[단지번호붙이기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2667.py)|DFS||
+|[1302](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1302.py)|||
+|[큰수만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
 - To fix + add: 15486
