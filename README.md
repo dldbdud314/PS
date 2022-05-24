@@ -32,4 +32,5 @@
 |[단지번호붙이기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2667.py)|DFS||
 |[1302](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1302.py)|||
 |[큰수만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
+|[2075](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2075.py)|heap||
 - To fix + add: 15486
