@@ -33,4 +33,6 @@
 |[1302](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1302.py)|||
 |[큰수만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
 |[2075](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2075.py)|heap||
+|[프린터](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.py)|큐||
+|[주식가격](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|큐||
 - To fix + add: 15486
