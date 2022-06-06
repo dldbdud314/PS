@@ -37,4 +37,4 @@
 |[주식가격](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|큐||
 |[구명보트](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py)|그리디||
 |[뉴스클러스터링](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py)|문자열처리, 집합||
-- To fix + add: 15486
+- To fix + add: 15486 | 1202, 14722
