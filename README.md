@@ -30,11 +30,16 @@
 |[전화번호목록](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)|해시||
 |[체육복](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)|그리디|코테강의 풀이방식 학습|
 |[단지번호붙이기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2667.py)|DFS||
-|[1302](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1302.py)|||
+|[1302. 베스트셀러](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1302.py)|||
 |[큰수만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디|코테강의 풀이방식 학습|
-|[2075](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2075.py)|heap||
+|[2075. N번째큰수](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2075.py)|heap||
 |[프린터](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.py)|큐||
 |[주식가격](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|큐||
 |[구명보트](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.py)|그리디||
 |[뉴스클러스터링](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.py)|문자열처리, 집합||
-- To fix + add: 15486 | 1202, 14722
+|[14722. 우유도시](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14722.py)|DP|틀린 풀이 (수정 필요)|
+|[1202. 보석도둑](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1202.py)|힙 활용|시간 초과|
+|[경주로건설](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B2%BD%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4.py)|DFS|시간초과(52.0/100.0)|
+|[15686. 치킨거리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/15686.py)|brute force||
+|[14502. 연구소](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14502.py)|brute force+DFS||
+
