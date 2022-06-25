@@ -42,4 +42,5 @@
 |[경주로건설](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B2%BD%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4.py)|DFS|시간초과(52.0/100.0)|
 |[15686. 치킨거리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/15686.py)|brute force||
 |[14502. 연구소](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14502.py)|brute force+DFS||
-
+|[게임맵최단거리](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)|BFS||
+|[후보키](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|brute force||
