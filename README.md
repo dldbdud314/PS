@@ -45,3 +45,4 @@
 |[게임맵최단거리](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py)|BFS||
 |[후보키](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%9B%84%EB%B3%B4%ED%82%A4.py)|brute force||
 |[베스트앨범](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)|해시||
+|[캐시](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%BA%90%EC%8B%9C.py)|해시||
