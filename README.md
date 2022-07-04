@@ -47,3 +47,11 @@
 |[베스트앨범](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)|해시||
 |[캐시](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%BA%90%EC%8B%9C.py)|해시||
 |[이중우선순위큐](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)|힙||
+
+### 이코테 
+[] 그리디
+[] 구현
+[] DFS/BFS
+[] 정렬
+[] 이진탐색
+[] DP
