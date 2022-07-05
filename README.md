@@ -49,7 +49,7 @@
 |[이중우선순위큐](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)|힙||
 
 ### 이코테 
-- [ ] 그리디
+- [x] [그리디](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [ ] 구현
 - [ ] DFS/BFS
 - [ ] 정렬
