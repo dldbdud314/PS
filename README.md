@@ -47,6 +47,10 @@
 |[베스트앨범](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)|해시||
 |[캐시](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%BA%90%EC%8B%9C.py)|해시||
 |[이중우선순위큐](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)|힙||
+|[11047.동전0](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11047.py)|그리디||
+|[1946.신입사원](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1946.py)|그리디||
+|[2839.설탕배달](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2839.py)|그리디||
+|[14720.우유축제](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14720.py)|그리디||
 
 ### 이코테 
 - [x] [그리디](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94)
