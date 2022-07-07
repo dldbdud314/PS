@@ -58,3 +58,6 @@
 |[1946. 신입사원](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1946.py)|그리디||
 |[2839. 설탕배달](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2839.py)|그리디||
 |[14720. 우유축제](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14720.py)|그리디||
+|[1700. 멀티탭스케쥴링](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1700.py)|그리디|난이도 : **|
+|[11399. ATM](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11399.py)|그리디||
+|[1213. 팰린드롬 만들기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1213.py)|그리디||
