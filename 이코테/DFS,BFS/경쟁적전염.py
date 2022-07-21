@@ -1,5 +1,4 @@
 #백준 18405번
-#틀렸,, 디버깅 필요
 from collections import deque
 
 def solution(n, matrix, s, x, y):
@@ -13,12 +12,11 @@ def solution(n, matrix, s, x, y):
     dirs = [(0, 1), (1, 0), (0, -1), (-1, 0)]
     while queue:
         v, cx, cy, d = queue.popleft()
-        if d > s:
-            break
-        for dx, dy in dirs:
-            if 0 <= cx + dx < n and 0 <= cy + dy < n and matrix[cx+dx][cy+dy] == 0:
-                queue.append([v, cx+dx, cy+dy, d + 1])
-                matrix[cx+dx][cy+dy] = v
+        if d + 1 <= s:
+            for dx, dy in dirs:
+                if 0 <= cx + dx < n and 0 <= cy + dy < n and matrix[cx+dx][cy+dy] == 0:
+                    queue.append([v, cx+dx, cy+dy, d + 1])
+                    matrix[cx+dx][cy+dy] = v
     return matrix[x-1][y-1]
 
 n, k = map(int, input().split())
