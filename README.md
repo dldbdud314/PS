@@ -62,3 +62,4 @@
 |[11399. ATM](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11399.py)|그리디||
 |[1213. 팰린드롬 만들기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1213.py)|그리디||
 |[14503. 로봇청소기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14503.py)|구현||
+|[14500. 테트로미노](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14500.py)|구현||
