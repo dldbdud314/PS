@@ -28,7 +28,7 @@ def solution(n, matrix):
                 size += 1
                 cnt = 0
             res += d
-            fish_lst.remove(matrix[cx][cy]) #물고기 목록에서 삭제 -> 여기서 valueError 가 발생하는데 왜지...
+            fish_lst.remove(matrix[cx][cy]) #물고기 목록에서 삭제
             matrix[sx][sy] = 0 #상어 이동
             sx, sy = cx, cy
             matrix[sx][sy] = 9
