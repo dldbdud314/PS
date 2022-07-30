@@ -1,8 +1,8 @@
 ### 이코테 
 - [x] [그리디](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [x] [구현](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84)
-- [ ] [DFS/BFS](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%2CBFS) ✅ ing
-- [ ] 정렬
+- [x] [DFS/BFS](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%2CBFS) 
+- [ ] 정렬 <- ✅ ing
 - [ ] 이진탐색
 - [ ] DP
 
@@ -64,4 +64,4 @@
 |[14503. 로봇청소기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14503.py)|구현||
 |[14500. 테트로미노](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14500.py)|구현||
 |[16236. 아기상어](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16236.py)|BFS 응용||
-
+|[17144. 미세언지안녕](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17144.py)|구현||
