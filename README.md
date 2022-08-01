@@ -1,11 +1,11 @@
-### ㄱㄱㄱㄱ
+### 🔥
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dldbdud314)](https://solved.ac/dldbdud314)
 
 ### 이코테 
 - [x] [그리디](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94)
 - [x] [구현](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84)
 - [x] [DFS/BFS](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%2CBFS) 
-- [ ] [정렬](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC) <- ✅ ing
+- [x] [정렬](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC)
 - [ ] 이진탐색
 - [ ] DP
 
@@ -68,3 +68,5 @@
 |[14500. 테트로미노](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14500.py)|구현||
 |[16236. 아기상어](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16236.py)|BFS 응용||
 |[17144. 미세언지안녕](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17144.py)|구현||
+|[14890. 경사로](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14890.py)|구현||
+|[17142. 연구소3](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17142.py)|bruteforce+BFS||
