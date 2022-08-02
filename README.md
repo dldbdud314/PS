@@ -6,7 +6,7 @@
 - [x] [구현](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84)
 - [x] [DFS/BFS](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%2CBFS) 
 - [x] [정렬](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC)
-- [ ] 이진탐색
+- [ ] [이진탐색](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89) <- ✅ING
 - [ ] DP
 
 ### practice
