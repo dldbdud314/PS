@@ -73,3 +73,4 @@
 |[14890. 경사로](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14890.py)|구현||
 |[17142. 연구소3](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17142.py)|bruteforce+BFS||
 |[방금그곡](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py)|문자열 처리||
+|[14889. 스타트와링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14889.py)|구현|| 
