@@ -75,3 +75,4 @@
 |[방금그곡](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.py)|문자열 처리||
 |[14889. 스타트와링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14889.py)|구현|| 
 |[압축](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%95%EC%B6%95.py)|문자열 처리||
+|[k진수에서소수개수구하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)|||
