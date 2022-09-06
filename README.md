@@ -76,5 +76,5 @@
 |[14889. 스타트와링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14889.py)|구현|| 
 |[압축](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%95%EC%B6%95.py)|문자열 처리||
 |[k진수에서소수개수구하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)|||
-|[가장 긴 감소하는 부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11722.py)|DP||
-|[가사검색 - 트라이](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89.py)|트라이 or 이진탐색||
+|[가장 긴 감소하는 부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11722.py)|DP|풀이참고|
+|[가사검색 - 트라이](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89.py)|트라이 or 이진탐색|난이도 : ***|
