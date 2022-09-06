@@ -6,7 +6,7 @@
 - [x] [구현](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B5%AC%ED%98%84)
 - [x] [DFS/BFS](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%2CBFS) 
 - [x] [정렬](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC)
-- [ ] [이진탐색](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
+- [x] [이진탐색](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 - [ ] [DP](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <- ✅ING
 - [ ] 최단 경로
 - [ ] 그래프 이론
@@ -76,3 +76,5 @@
 |[14889. 스타트와링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14889.py)|구현|| 
 |[압축](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%95%EC%B6%95.py)|문자열 처리||
 |[k진수에서소수개수구하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)|||
+|[가장 긴 감소하는 부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11722.py)|DP||
+|[가사검색 - 트라이](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89.py)|트라이 or 이진탐색||
