@@ -26,9 +26,10 @@ def solution1(words, queries):
     return ans
 
 # 2. 트라이 활용
-# 합계: 70.0 / 100.0 (효율성 3/5)
+# 합계: 85.0 / 100.0 (효율성 4/5)
 import sys
 sys.setrecursionlimit(100001)
+from collections import defaultdict
 
 def build_trie(words, trie):
     for word in words:
@@ -40,37 +41,52 @@ def build_trie(words, trie):
         cur_root['*'] = word
     return trie
 
-def dfs(cur_root, res):
+def dfs(cur_root, depth, res, qlen):
+    if depth > qlen:
+        return
     for k, v in cur_root.items():
         if k == '*':
-            res.append(len(v))
+            if depth == qlen:
+                res.append(v)
             continue
-        dfs(v, res)
+        dfs(v, depth + 1, res, qlen)
 
 def search_dfs(trie, query):
     root_dict = trie
     res = []
+    depth = 0
     for c in query:
         if c != '?':
             if c not in root_dict:
                 return []
             root_dict = root_dict[c]
+            depth += 1
         else:
-            dfs(root_dict, res)
+            dfs(root_dict, depth, res, len(query))
             break
     return res
+
+def word_lengths(words):
+    lengths = defaultdict(int)
+    for word in words:
+        lengths[len(word)] += 1
+    return lengths
 
 def solution2(words, queries):
     front_trie = build_trie(words, {})
     end_trie = build_trie(list(map(lambda word: word[::-1], words)), {})
+    lengths = word_lengths(words)
     res = []
     for query in queries:
-        c = 0
-        if query[0] == '?':
-            c = search_dfs(end_trie, query[::-1])
+        if query.count('?') == len(query): #전부 다 ?인 경우
+            res.append(lengths[len(query)])
         else:
-            c = search_dfs(front_trie, query)
-        res.append(c.count(len(query)))
+            c = 0
+            if query[0] == '?':
+                c = search_dfs(end_trie, query[::-1])
+            else:
+                c = search_dfs(front_trie, query)
+            res.append(len(c))
     return res
     
 print(solution2(["frodo", "front", "frost", "frozen", "frame", "kakao"], ["fro??", "????o", "fr???", "fro???", "pro?"]))
