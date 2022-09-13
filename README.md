@@ -79,3 +79,5 @@
 |[가장 긴 감소하는 부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11722.py)|DP|풀이참고|
 |[가사검색 - 트라이](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89.py)|트라이 or 이진탐색|난이도 : ***|
 |[불량사용자](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90.py)|구현||
+|[5014. 스타트링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/5014.py)|BFS||
+|[2468. 안전영역](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2468.py)|DFS||
