@@ -7,8 +7,8 @@
 - [x] [DFS/BFS](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/DFS%2CBFS) 
 - [x] [정렬](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC)
 - [x] [이진탐색](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
-- [ ] [DP](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D) <- ✅ING
-- [x] [최단 경로](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)
+- [x] [DP](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [ ] [최단 경로](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C) <- ✅ING
 - [ ] 그래프 이론
 
 ### practice
