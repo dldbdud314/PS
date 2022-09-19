@@ -81,3 +81,5 @@
 |[불량사용자](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90.py)|구현||
 |[5014. 스타트링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/5014.py)|BFS||
 |[2468. 안전영역](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2468.py)|DFS||
+|[n진수게임](https://github.com/dldbdud314/PS_py/blob/master/programmers/n%EC%A7%84%EC%88%98%EA%B2%8C%EC%9E%84.py)|수학||
+|[행렬테두리회전하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)|시뮬레이션||
