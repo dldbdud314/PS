@@ -85,3 +85,6 @@
 |[행렬테두리회전하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%96%89%EB%A0%AC%ED%85%8C%EB%91%90%EB%A6%AC%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)|시뮬레이션||
 |[영어끝말잇기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.py)|구현||
 |[방문길이](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.py)|구현||
+|[배달](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B0%B0%EB%8B%AC.py)|최단경로(다익스트라)||
+|[스킬트리](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py)|그래프 활용||
+|[숫자게임](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.py)|그리디||
