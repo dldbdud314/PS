@@ -90,3 +90,7 @@
 |[숫자게임](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.py)|그리디||
 |[셔틀버스](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.py)|구현(문자열 처리)|To fix!|
 |[다단계칫솔판매](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A4%EB%8B%A8%EA%B3%84%EC%B9%AB%EC%86%94%ED%8C%90%EB%A7%A4.py)|그래프||
+|[여행경로](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)|DFS 응용||
+|[입국심사](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)|이진탐색||
+|[최고의집합](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B5%9C%EA%B3%A0%EC%9D%98%EC%A7%91%ED%95%A9.py)|||
+|[야근지수](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.py)|힙||
