@@ -97,3 +97,4 @@
 |[1766. 문제집](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1766.py)|위상정렬||
 |[12919. A와 B 2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12919.py)|BFS||
 |[2503. 숫자야구](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2503.py)|brute force||
+|[21278. 호석이두마리치킨](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/21278.py)|brute-force + BFS||
