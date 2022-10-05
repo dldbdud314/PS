@@ -95,3 +95,5 @@
 |[최고의집합](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B5%9C%EA%B3%A0%EC%9D%98%EC%A7%91%ED%95%A9.py)|||
 |[야근지수](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.py)|힙||
 |[1766. 문제집](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1766.py)|위상정렬||
+|[12919. A와 B 2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12919.py)|BFS||
+|[2503. 숫자야구](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2503.py)|brute force||
