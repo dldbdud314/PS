@@ -94,3 +94,4 @@
 |[입국심사](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.py)|이진탐색||
 |[최고의집합](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B5%9C%EA%B3%A0%EC%9D%98%EC%A7%91%ED%95%A9.py)|||
 |[야근지수](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.py)|힙||
+|[1766. 문제집](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1766.py)|위상정렬||
