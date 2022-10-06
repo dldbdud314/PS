@@ -98,3 +98,5 @@
 |[12919. A와 B 2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12919.py)|BFS||
 |[2503. 숫자야구](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2503.py)|brute force||
 |[21278. 호석이두마리치킨](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/21278.py)|brute-force + BFS|ToDo: 플로이드워셜로 도전|
+|[피로도](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.py)|완전탐색||
+|[디스크컨트롤러](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.py)|heap|다시~|
