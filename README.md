@@ -101,3 +101,6 @@
 |[피로도](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%94%BC%EB%A1%9C%EB%8F%84.py)|완전탐색||
 |[디스크컨트롤러](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.py)|heap|다시~|
 |[단속카메라](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py)|그리디||
+|[다트게임](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.py)|구현||
+|[단어뒤집기2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17413.py)|문자열처리||
+|[파일정리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/20291.py)|문자열처리||
