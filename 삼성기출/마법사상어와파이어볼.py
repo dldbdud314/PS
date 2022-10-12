@@ -18,16 +18,9 @@ for _ in range(K):
         curi, curj = pos #해당 위치의
         for m, s, d in infos: #각각의 fireball 정보에 대해
             di, dj = move.get(d)
-            nexti, nextj = curi, curj
-            for _ in range(s): #s만큼 움직였을 때, 범위 밖으로 나가는 걸 고려
-                nexti += di
-                nextj += dj
-                if nexti < 0: nexti = N - 1
-                elif nexti >= N: nexti = 0
-                if nextj < 0: nextj = N - 1
-                elif nextj >= N: nextj = 0
-            moved = [m, s, d]
-            after_move[(nexti, nextj)].append(moved)
+            nexti = (curi + s * di) % N
+            nextj = (curj + s * dj) % N
+            after_move[(nexti, nextj)].append([m, s, d])
     fireballs = after_move
     #연산
     after_calc = defaultdict(list)
@@ -61,7 +54,3 @@ for pos, infos in fireballs.items():
         total += m
         
 print(total)
-
-# 처음에 자료구조 잘못 잡고 헤멤
-# 시간 초과
-# 덜 에바적인 풀이 함 볼까..?ㅋ
