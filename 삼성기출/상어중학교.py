@@ -14,16 +14,24 @@ def define_block_groups(cur_block_group, v, x, y, color):
                 define_block_groups(cur_block_group, v, x + dx, y + dy, color)
 
 
-def find_block_groups():
-    groups = []
+def init_visited(visited):
     for i in range(n):
         for j in range(n):
-            visited = [[False] * n for _ in range(n)]
+            if MATRIX[i][j] == 0:
+                visited[i][j] = False
+
+
+def find_block_groups():
+    groups = []
+    visited = [[False] * n for _ in range(n)]  # 무지개 블록 방문 표시 해제 알아보기..
+    for i in range(n):
+        for j in range(n):
             if not visited[i][j] and MATRIX[i][j] > 0:
                 cur_block_group = []
                 define_block_groups(cur_block_group, visited, i, j, MATRIX[i][j])
                 if len(cur_block_group) >= 2:
                     groups.append(cur_block_group)
+                init_visited(visited)  # 0인 애들 reset (무지개는 방문 여부 상관없이 또 방문할 수 있어야 함)
     return groups
 
 
