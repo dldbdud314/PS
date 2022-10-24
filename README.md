@@ -104,3 +104,5 @@
 |[다트게임](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.py)|구현||
 |[단어뒤집기2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17413.py)|문자열처리||
 |[파일정리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/20291.py)|문자열처리||
+|[12869. 뮤탈리스크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12869.py)|BFS||
+|[16928. 뱀과 사다리 게임](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16928.py)|BFS||
