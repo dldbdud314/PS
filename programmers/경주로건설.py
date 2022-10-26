@@ -1,40 +1,42 @@
-#dfs로 가능한 모든 경로 기록하고 그 중 최소 비용의 경로를 return 한다.
-#시간 초과 : 52.0 / 100.0
-paths = []
+# 1차) BFS 응용 - 방문 처리 ㅇㅉㅌㅂ..
+from collections import deque
 
-def dfs_paths(board, s, e, visited):
-    visited = visited + [s]
-    if s == e:
-        paths.append(visited)
-        return
-    dirs = [[1, 0], [0, 1], [-1, 0], [0, -1]]
-    for dx, dy in dirs:
-        if 0 <= s[0] + dx < len(board) and 0 <= s[1] + dy < len(board) and board[s[0]+dx][s[1]+dy]==0 and [s[0]+dx, s[1]+dy] not in visited:
-            dfs_paths(board, [s[0]+dx, s[1]+dy], e, visited)
-
-def calculate_path(path):
-    val = 0
-    for i in range(len(path)):
-        cur_x, cur_y = path[i][0], path[i][1]
-        if 0 < i < len(path)-1:
-            #corner인 경우:
-            # - 이전 x좌표 != 현재 x좌표 && 현재 y좌표 != 다음 y좌표
-            # - 이전 y좌표 != 현재 y좌표 && 현재 x좌표 != 다음 x좌표
-            last_x, last_y = path[i-1][0], path[i-1][1]
-            next_x, next_y = path[i+1][0], path[i+1][1]
-            if (last_x != cur_x and cur_y != next_y) or (last_y != cur_y and cur_x != next_x):
-                val += 500
-            val += 100
-    return val + 100
 
 def solution(board):
-    s = [0, 0]
-    e = [len(board)-1, len(board)-1]
-    visited = []
-    dfs_paths(board, s, e, visited)
-    path_val = []
-    for path in paths:
-        path_val.append(calculate_path(path))
-    return min(path_val)
+    end = len(board) - 1
+    dirs = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+    queue = deque([(0, 0, 0, 0), (0, 0, 1, 0)])  # x, y, d, c
+    visited = [[False] * len(board) for _ in range(len(board))]
+    visited[0][0] = True
 
-print(solution([[0,0,0,0,0,0],[0,1,1,1,1,0],[0,0,1,0,0,0],[1,0,0,1,0,1],[0,1,0,0,0,1],[0,0,0,0,0,0]]))
+    min_cost = float('inf')
+    while queue:
+        x, y, d, c = queue.popleft()
+        if x == end and y == end:
+            min_cost = min(min_cost, c)
+            continue
+
+        cur_d = d  # 기존 방향 정보 -> d
+        for _ in range(4):
+            next_x = x + dirs[cur_d][0]
+            next_y = y + dirs[cur_d][1]
+            if 0 <= next_x < len(board) and 0 <= next_y < len(board) and not visited[next_x][next_y] and board[next_x][
+                next_y] == 0:
+                if cur_d == d:
+                    queue.append((next_x, next_y, cur_d, c + 100))
+                else:
+                    queue.append((next_x, next_y, cur_d, c + 600))
+                visited[next_x][next_y] = True
+            cur_d = cur_d + 1 if cur_d + 1 < 4 else 0
+
+    return min_cost
+
+
+# print(solution([[0, 0, 0], [0, 0, 0], [0, 0, 0]]))
+
+# print(solution([[0, 0, 0, 0, 0, 0, 0, 1], [0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 1, 0, 0], [0, 0, 0, 0, 1, 0, 0, 0],
+#                 [0, 0, 0, 1, 0, 0, 0, 1], [0, 0, 1, 0, 0, 0, 1, 0], [0, 1, 0, 0, 0, 1, 0, 0],
+#                 [1, 0, 0, 0, 0, 0, 0, 0]]))
+
+# print(solution([[0, 0, 1, 0], [0, 0, 0, 0], [0, 1, 0, 1], [1, 0, 0, 0]]))
+# print(solution([[0,0,0,0,0,0],[0,1,1,1,1,0],[0,0,1,0,0,0],[1,0,0,1,0,1],[0,1,0,0,0,1],[0,0,0,0,0,0]]))
