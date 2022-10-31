@@ -76,7 +76,7 @@
 |[14889. 스타트와링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14889.py)|구현|| 
 |[압축](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%95%95%EC%B6%95.py)|문자열 처리||
 |[k진수에서소수개수구하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)|||
-|[가장 긴 감소하는 부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11722.py)|DP|풀이참고|
+|[11722. 가장 긴 감소하는 부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11722.py)|DP|풀이참고|
 |[가사검색 - 트라이](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89.py)|트라이 or 이진탐색|난이도 : ***|
 |[불량사용자](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90.py)|구현||
 |[5014. 스타트링크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/5014.py)|BFS||
@@ -106,3 +106,6 @@
 |[파일정리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/20291.py)|문자열처리||
 |[12869. 뮤탈리스크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12869.py)|BFS||
 |[16928. 뱀과 사다리 게임](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16928.py)|BFS||
+|[11053. 가장긴증가하는부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11053.py)|DP|유사 : 11722|
+|[2579. 계단오르기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2579.py)|DP||
+|[1520. 내리막길](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1520.py)|DFS + DP|다시!|
