@@ -5,12 +5,12 @@ from bisect import bisect_left
 n = int(input())
 arr = list(map(int, sys.stdin.readline().split()))
 
-dp = [0]
+lst = [0]
 
 for a in arr:
-    if dp[-1] < a:
-        dp.append(a)
+    if lst[-1] < a:
+        lst.append(a)
     else:
-        dp[bisect_left(dp, a)] = a
+        lst[bisect_left(lst, a)] = a
 
-print(len(dp) - 1)
+print(len(lst) - 1)
