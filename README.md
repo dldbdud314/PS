@@ -106,6 +106,14 @@
 |[파일정리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/20291.py)|문자열처리||
 |[12869. 뮤탈리스크](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12869.py)|BFS||
 |[16928. 뱀과 사다리 게임](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16928.py)|BFS||
-|[11053. 가장긴증가하는부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11053.py)|DP|유사 : 11722|
+|[11053. 가장긴증가하는부분수열](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11053.py)|DP|LIS 유형 - 유사 : 11722|
 |[2579. 계단오르기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2579.py)|DP||
 |[1520. 내리막길](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1520.py)|DFS + DP|다시!|
+|[1965. 상자넣기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1965.py)|DP|LIS 유형|
+|[2631. 줄세우기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2631.py)|DP|LIS 유형|
+|[2096. 내려가기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2096.py)|DP||
+|[16197. 두 동전](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/16197.py)|BFS||
+|[1194. 달이 차오른다, 가자](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1194.py)|BFS+비트바스크 활용|to update !|
+|[9935. 문자열 폭발](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/9935.py)|스택 활용||
+|[12015. 가장 긴 증가하는 부분 수열 2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12015.py)|이진탐색||
+|[10816. 숫자카드2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/10816.py)|이진탐색 활용||
