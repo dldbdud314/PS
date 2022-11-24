@@ -117,3 +117,6 @@
 |[9935. 문자열 폭발](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/9935.py)|스택 활용||
 |[12015. 가장 긴 증가하는 부분 수열 2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/12015.py)|이진탐색||
 |[10816. 숫자카드2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/10816.py)|이진탐색 활용||
+|[1446. 지름길](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1446.py)|DP||
+|[1927. 최소힙](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1927.py)|힙 기본||
+|[1987. 알파벳](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1987.py)|DFS||
