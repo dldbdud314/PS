@@ -120,3 +120,4 @@
 |[1446. 지름길](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1446.py)|DP||
 |[1927. 최소힙](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1927.py)|힙 기본||
 |[1987. 알파벳](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1987.py)|DFS||
+|[2252. 줄세우기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2252.py)|위상정렬||
