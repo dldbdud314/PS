@@ -1,33 +1,47 @@
-def checkDis(room):
-    for y in range(len(room)):
-        for x in range(len(room)):
-            if room[x][y] == 'P':
-                if y-1 >= 0 and room[x][y-1] == 'P': return 0
-                if x+1 < len(room) and room[x+1][y] == 'P': return 0
-                if y+1 < len(room) and room[x][y+1] == 'P': return 0
-                if y-1 >= 0 and room[x][y-1] == 'P': return 0
-                if x+1 < len(room) and y-1 >= 0 and room[x+1][y-1] == 'P':
-                    if room[x][y-1] == 'O' or room[x+1][y] == 'O': return 0
-                if x+1 < len(room) and y+1 < len(room) and room[x+1][y+1] == 'P': 
-                    if room[x][y+1] == 'O' or room[x+1][y] == 'O': return 0
-                if x-1 >= 0 and y+1 < len(room) and room[x-1][y+1] == 'P': 
-                    if room[x][y+1] == 'O' or room[x-1][y] == 'O': return 0
-                if x-1 >= 0 and y-1 >= 0 and room[x-1][y-1] == 'P': 
-                    if room[x][y-1] == 'O' or room[x-1][y] == 'O': return 0
-                if y-2 >= 0 and room[x][y-2] == 'P': 
-                    if room[x][y-1] == 'O': return 0
-                if x+2 < len(room) and room[x+2][y] == 'P': 
-                    if room[x+1][y] == 'O': return 0
-                if y+2 < len(room) and room[x][y+2] == 'P': 
-                    if room[x][y+1] == 'O': return 0
-                if x-2 >= 0 and room[x-2][y] == 'P': 
-                    if room[x-1][y] == 'O': return 0
+def is_nearby1(place, x, y):
+    dirs = [(-1, 0), (0, 1), (1, 0), (0, -1)]
+    for dx, dy in dirs:
+        if 0 <= x + dx < 5 and 0 <= y + dy < 5:
+            if place[x + dx][y + dy] == 'P': # 거리 1
+                return True
+            if place[x + dx][y + dy] == 'O' and 0 <= x + dx * 2 < 5 and 0 <= y + dy * 2 < 5 and place[x + dx * 2][
+                y + dy * 2] == 'P':  # 거리 2 (중간에 비었으며 + 두칸 건너 사람이 있는 경우)
+                return True
+
+    return False
+
+
+def is_nearby2(place, x, y):
+    dirs = [(-1, -1), (-1, 1), (1, -1), (1, 1)]
+    for dx, dy in dirs:
+        if 0 <= x + dx < 5 and 0 <= y + dy < 5 and place[x + dx][y + dy] == 'P':
+            if place[x][y + dy] == 'O' or place[x + dx][y] == 'O':
+                return True
+
+    return False
+
+
+def check_dis(place):
+    for i in range(5):
+        for j in range(5):
+            if place[i][j] == 'P':
+                # 1. 상하좌우 네방향 (거리 1 && 2 둘 다 체크하기!)
+                if is_nearby1(place, i, j):
+                    return 0
+                # 2. 대각선 네방향
+                if is_nearby2(place, i, j):
+                    return 0
     return 1
 
+
 def solution(places):
-    answer = []
-    for p in places:
-        answer.append(checkDis(p))
-                    
-    return answer
-print(solution([["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"], ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"], ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]]))
+    res = []
+    for place in places:
+        res.append(check_dis(place))
+
+    return res
+
+
+print(solution([["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"],
+                ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"],
+                ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]]))
