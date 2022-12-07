@@ -1,28 +1,31 @@
 from collections import deque
 
-def check_word(w1, w2):
+
+def valid_word(word1, word2):
+    total = len(word1)
     cnt = 0
-    for x1, x2 in zip(w1, w2):
-        if x1 == x2: cnt += 1
-    if cnt == len(w1)-1:
+    for c1, c2 in zip(word1, word2):
+        if c1 == c2:
+            cnt += 1
+    if (total - 1) == cnt:
         return True
-    else:
-        return False
+    return False
+
 
 def solution(begin, target, words):
-    if target not in words:
-        return 0
-    
-    ans = 0
+    visited = {word: False for word in words}
     queue = deque([(begin, 0)])
-    visited = {key : False for key in words}
     while queue:
-        cur = queue.popleft()
-        if cur[0] == target:
-            ans = cur[1] #현재 레벨 저장
-            break
+        word, level = queue.popleft()
+
+        if word == target:
+            return level
+
+        if word != begin:
+            visited[word] = True
+
         for w in words:
-            if visited[w] == False and check_word(cur[0], w):
-                queue.append((w, cur[1] + 1))
-                visited[w] = True
-    return ans
+            if valid_word(w, word) and not visited[w]:
+                queue.append((w, level + 1))
+
+    return 0
