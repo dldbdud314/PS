@@ -16,9 +16,9 @@
 |----|----------|---|
 |[거리두기 확인하기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.py)|탐색, 무식하게 풂|✅ UPDATED!|
 |[타겟넘버](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.py)|BFS|모든 경우의 수를 트리로 표현 가능한 것에 착안|
-|[네트워크](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|DFS|반례 생각 못해서 계속 실패->양방향 그래프로 수정 및 DFS|
-|[단어변환](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)|BFS||
-|[신고결과받기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.py)|구현|dictionary, list, 문자열 활용|
+|[네트워크](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)|DFS|✅ UPDATED!|
+|[단어변환](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)|BFS|✅ UPDATED!|
+|[신고결과받기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.py)|구현|✅ UPDATED!|
 |[순위검색](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|구현, 탐색|무식하게 풀면 무조건 효율성 통과 못하는듯.. 빠른 탐색 방법으로 교체할 것<br>_교체완: dictionary+이분탐색_|
 |[메뉴리뉴얼](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)|완전탐색|시간초과 수정-combinations의 종류 제한할 것! 조합은 곧 팩토리얼 계산! 시간복잡도 주의..|
 |[2606-바이러스](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2606.py)|BFS|가장 간단한 형태의 문제일듯|
@@ -122,3 +122,5 @@
 |[1987. 알파벳](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1987.py)|DFS||
 |[2252. 줄세우기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2252.py)|위상정렬||
 |[양궁대회](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.py)|브루트포스||
+
+- 다시 푼 문제 -> ✅ UPDATED!
