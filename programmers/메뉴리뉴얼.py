@@ -1,30 +1,22 @@
 from itertools import combinations
+from collections import Counter
+
 
 def solution(orders, course):
-    order_set_list = [set(order) for order in orders]
-    menu_set = set()
+    counts_per_course = [[] for _ in range(len(course))]
     for order in orders:
-        menu_set.update(list(order))
-    ans = []
-    for x in course:
-        combinations_list = list(map(lambda m : list(combinations(m, x)), order_set_list))
-        combinations_set = set()
-        for combination in combinations_list:
-            for e in combination:
-                combinations_set.add(e)
-        combinations_set_list = list(map(set, combinations_set))
-        
-        largest_combination = []
-        largest = -float('inf')
-        for combination in combinations_set_list:
-            cnt = 0
-            for order in order_set_list:
-                if combination < order or combination == order: cnt += 1
-            if cnt > largest and cnt >= 2:
-                largest = cnt
-                largest_combination.clear()
-                largest_combination.append(combination)
-            elif cnt == largest:
-                largest_combination.append(combination)
-        ans.extend([''.join(sorted(list(x))) for x in largest_combination])
-    return sorted(list(set(ans)))
+        for i, num in enumerate(course):
+            for combi in combinations(sorted(list(order)), num):
+                counts_per_course[i].append(''.join(combi))
+
+    res = []
+    for course_counts in counts_per_course:
+        if not course_counts:
+            break
+        counts = Counter(course_counts)
+        max_count = max(counts.values())
+        for k, v in counts.items():
+            if v >= 2 and v == max_count:
+                res.append(k)
+
+    return sorted(res)
