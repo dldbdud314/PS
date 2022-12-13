@@ -20,7 +20,7 @@
 |[단어변환](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)|BFS|✅ UPDATED!|
 |[신고결과받기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0.py)|구현|✅ UPDATED!|
 |[순위검색](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89.py)|구현, 탐색|무식하게 풀면 무조건 효율성 통과 못하는듯.. 빠른 탐색 방법으로 교체할 것<br>_교체완: dictionary+이분탐색_|
-|[메뉴리뉴얼](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)|완전탐색|시간초과 수정-combinations의 종류 제한할 것! 조합은 곧 팩토리얼 계산! 시간복잡도 주의..|
+|[메뉴리뉴얼](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC.py)|완전탐색|✅ UPDATED!|
 |[2606-바이러스](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2606.py)|BFS|가장 간단한 형태의 문제일듯|
 |[키패드누르기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.py)|구현||
 |[수식최대화](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94.py)|완전탐색|pop연산 시 인덱스 변화 염두에 둘 것!|
@@ -122,5 +122,6 @@
 |[1987. 알파벳](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1987.py)|DFS||
 |[2252. 줄세우기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2252.py)|위상정렬||
 |[양궁대회](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.py)|브루트포스||
+|[두큐합같게만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
 
 - 다시 푼 문제 -> ✅ UPDATED!
