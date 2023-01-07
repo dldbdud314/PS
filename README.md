@@ -124,7 +124,7 @@
 |[양궁대회](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.py)|브루트포스||
 |[두큐합같게만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
 |[할인행사](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py)|투포인터||
-
+|[프렌즈4블럭](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)|브루트포스||
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
