@@ -125,6 +125,8 @@
 |[두큐합같게만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
 |[할인행사](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py)|투포인터||
 |[프렌즈4블럭](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)|브루트포스||
+|[징검다리건너기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.py)|이분탐색|수정완!|
+|[전력망을둘로나누기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.py)|브루트포스||
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
