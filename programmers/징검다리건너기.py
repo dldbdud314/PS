@@ -1,24 +1,21 @@
-#합계: 94.9 / 100.0
 def solution(stones, k):
-    if len(stones) == 1:
-        return stones[0]
-    l = 1
-    r = max(stones)
-    ans = 0
+    l, r = 1, max(stones)
+    res = 1
+
     while l <= r:
-        mid = (l + r) // 2
+        mid = (l + r) // 2  # 건너는 친구 수 
+        # mid명 건넌다고 가정했을 때 연속 점프수 -> k 초과 시 건너기 불가능하다고 판단하고 break
         cnt = 0
         for stone in stones:
-            if cnt >= k:
-                ans = mid
-                r = mid - 1
-                break
-            if stone - mid <= 0:
+            if stone - mid < 0:
                 cnt += 1
+                if cnt >= k:
+                    r = mid - 1  # 건널 수 없음 -> 건널 사람 줄이기
+                    break
             else:
                 cnt = 0
-        else:
+        else:  # break없이 loop 무사 탈출 -> mid명 건널 수 있음 -> 건널 사람 늘리기
+            res = mid
             l = mid + 1
-    return ans
 
-print(solution([2, 4, 5, 3, 2, 1, 4, 2, 5, 1], 3))
+    return res
