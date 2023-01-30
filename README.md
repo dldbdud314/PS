@@ -127,6 +127,9 @@
 |[프렌즈4블럭](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.py)|브루트포스||
 |[징검다리건너기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0.py)|이분탐색|수정완!|
 |[전력망을둘로나누기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0.py)|브루트포스||
+|[1904. 01타일](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1904.py)|DP||
+|[14567. 선수 과목](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/14567.py)|위상 정렬||
+|[11660. 구간합구하기5](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11660.py)|구간합||
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
