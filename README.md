@@ -34,7 +34,7 @@
 |[주차요금계산](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)|구현||
 |[1806. 부분합](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1806.py)|투포인터||
 |[보석쇼핑](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91.py)|투포인터||
-|[N으로표현](https://github.com/dldbdud314/PS_py/blob/master/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.py)|DP||
+|[N으로표현](https://github.com/dldbdud314/PS_py/blob/master/programmers/N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.py)|DP|✅ UPDATED!|
 |[1890](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1890.py)|DP||
 |[표편집](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%91%9C%ED%8E%B8%EC%A7%91.py)|링크드리스트 구현|쉽지않...ㄷㅏ..|
 |[등굣길](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%93%B1%EA%B5%A3%EA%B8%B8.py)|DP||
@@ -130,9 +130,7 @@
 |[1904. 01타일](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1904.py)|DP||
 |[14567. 선수 과목](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/14567.py)|위상 정렬||
 |[11660. 구간합구하기5](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11660.py)|구간합||
+|[정수삼각형](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py)|DP||
+|[1912. 연속합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1912.py)|DP||
 
 - 다시 푼 문제 -> ✅ UPDATED!
-
-### 코테_스터디
-
-🚩 [**StudyRepo**](https://github.com/coding-test-study-room/repo)
