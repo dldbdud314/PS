@@ -132,5 +132,7 @@
 |[11660. 구간합구하기5](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11660.py)|구간합||
 |[정수삼각형](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py)|DP||
 |[1912. 연속합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1912.py)|DP||
+|[모음사전](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)|DFS||
+|[소수찾기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)|완탐||
 
 - 다시 푼 문제 -> ✅ UPDATED!
