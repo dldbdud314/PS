@@ -134,5 +134,7 @@
 |[1912. 연속합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1912.py)|DP||
 |[모음사전](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84.py)|DFS||
 |[소수찾기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)|완탐||
+|[연속부분수열의개수](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%EA%B0%9C%EC%88%98.py)|슬라이딩윈도우||
+|[21921. 블로그](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/21921.py)|슬라이딩윈도우||
 
 - 다시 푼 문제 -> ✅ UPDATED!
