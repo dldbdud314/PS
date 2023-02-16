@@ -138,5 +138,7 @@
 |[21921. 블로그](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/21921.py)|슬라이딩윈도우||
 |[13305.주유소](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/13305.py)|그리디||
 |[1758.알바생 강호](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1758.py)|그리디||
+|[땅따먹기](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.py)|DP||
+|[귤고르기](https://github.com/dldbdud314/PS/blob/master/programmers/%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|그리디||
 
 - 다시 푼 문제 -> ✅ UPDATED!
