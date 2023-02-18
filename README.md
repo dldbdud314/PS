@@ -142,5 +142,7 @@
 |[귤고르기](https://github.com/dldbdud314/PS/blob/master/programmers/%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py)|그리디||
 |[11265. 끝나지 않는 파티](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11265.py)|플로이드워셜||
 |[2660. 회장 뽑기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2660.py)|플로이드워셜||
+|[6443. 에너그램](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/6443.py)|백트래킹|풀참|
+|[1182. 부분수열의 합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1182.py)|백트래킹|풀참|
 
 - 다시 푼 문제 -> ✅ UPDATED!
