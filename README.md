@@ -144,5 +144,6 @@
 |[2660. 회장 뽑기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2660.py)|플로이드워셜||
 |[6443. 에너그램](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/6443.py)|백트래킹|풀참|
 |[1182. 부분수열의 합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1182.py)|백트래킹|풀참|
+|[N과 M](https://github.com/dldbdud314/PS/commit/a75715b316e61331fa1899eadf547a305e2aacde)|백트래킹 기본||
 
 - 다시 푼 문제 -> ✅ UPDATED!
