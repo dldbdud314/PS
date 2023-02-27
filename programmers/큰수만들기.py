@@ -1,14 +1,26 @@
-#그리디, O(n)
+'''
+** 그리디 기반 스택 : 아이디어 떠올리기 힘듦,,
+stack : 되도록이면 큰 수가 앞에 오도록
+'''
+
 
 def solution(number, k):
-    collected = []
-    for i, num in enumerate(number):
-        while len(collected) > 0 and collected[-1] < num and k > 0:
-            collected.pop()
+    number = list(map(int, list(number)))
+
+    stack = []
+    for i in range(len(number)):
+        while stack and stack[-1] < number[i] and k > 0:
+            stack.pop()
             k -= 1
         if k == 0:
-            collected += list(number[i:])
+            stack += number[i:]
             break
-        collected.append(num)
-    collected = collected[:-k] if k > 0 else collected
-    return ''.join(collected)
+        stack.append(number[i])
+
+    if k > 0:
+        stack = stack[:-k]
+
+    return ''.join(list(map(str, stack)))
+
+
+print(solution("1231234", 3))
