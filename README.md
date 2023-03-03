@@ -43,7 +43,7 @@
 |[체육복](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)|그리디|코테강의 풀이방식 학습|
 |[단지번호붙이기](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2667.py)|DFS||
 |[1302. 베스트셀러](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1302.py)|||
-|[큰수만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디|코테강의 풀이방식 학습|
+|[큰수만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디, 스택 활용|✅ UPDATED!|
 |[2075. N번째큰수](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2075.py)|heap||
 |[프린터](https://github.com/dldbdud314/PS_py/blob/master/programmers/%ED%94%84%EB%A6%B0%ED%84%B0.py)|큐||
 |[주식가격](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|큐||
@@ -145,5 +145,6 @@
 |[6443. 에너그램](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/6443.py)|백트래킹|풀참|
 |[1182. 부분수열의 합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1182.py)|백트래킹|풀참|
 |[N과 M](https://velog.io/@dldbdud314/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EC%97%B0%EC%8A%B5-N%EA%B3%BC-M-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)|백트래킹 기본||
+|[2696. 중앙값 구하기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2696.py)|삽입정렬&&이분탐색 활용||
 
 - 다시 푼 문제 -> ✅ UPDATED!
