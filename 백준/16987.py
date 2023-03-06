@@ -9,42 +9,39 @@ sys.setrecursionlimit(10 ** 5)
 max_cnt = 0  # 가장 많이 깬 개수
 
 
-def dfs(idx, cur_eggs):  # idx : 현재 계란
+def dfs(idx):  # idx : 현재 든 계란
     global max_cnt
     # 종료 조건
     if idx == len(eggs):
         cnt = 0
-        for x in cur_eggs:  # 깨진 계란 개수 세기
-            if x < 0:
+        for x, _ in eggs:  # 깨진 계란 개수 세기
+            if x <= 0:
                 cnt += 1
         max_cnt = max(cnt, max_cnt)
         return
 
-    if cur_eggs[idx] <= 0:  # 현재 계란이 깨짐
-        dfs(idx + 1, cur_eggs[:])
+    if eggs[idx][0] <= 0:  # 현재 계란이 깨짐
+        dfs(idx + 1)  # 오른쪽 계란 들고 진행
     else:
+        all_cracked = True
         for i in range(len(eggs)):
-            if cur_eggs[i] > 0 and i != idx:
-                a1 = cur_eggs[idx] - eggs[i][1]
-                a2 = cur_eggs[i] - eggs[idx][1]
-                cur_eggs[idx], cur_eggs[i] = a1, a2
-
-                dfs(idx + 1, cur_eggs[:])
-        else:
-            dfs(idx + 1, cur_eggs[:])
+            if eggs[i][0] > 0 and i != idx:
+                all_cracked = False
+                eggs[idx][0] -= eggs[i][1]
+                eggs[i][0] -= eggs[idx][1]
+                dfs(idx + 1)
+                eggs[idx][0] += eggs[i][1]
+                eggs[i][0] += eggs[idx][1]
+        if all_cracked:  # 더 꺨 수 없는 경우
+            dfs(len(eggs))
 
 
 n = int(input())
 eggs = []
 for _ in range(n):
     d, w = map(int, input().split())
-    eggs.append((d, w))
+    eggs.append([d, w])
 
-eggs_stat = []  # 계란 내구성 모음
-for d, _ in eggs:
-    eggs_stat.append(d)
-
-picked = [False] * len(eggs)
-dfs(0, eggs_stat[:])
+dfs(0)
 
 print(max_cnt)
