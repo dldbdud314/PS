@@ -146,5 +146,7 @@
 |[1182. 부분수열의 합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1182.py)|백트래킹|풀참|
 |[N과 M](https://velog.io/@dldbdud314/%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-%EC%97%B0%EC%8A%B5-N%EA%B3%BC-M-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)|백트래킹 기본||
 |[2696. 중앙값 구하기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2696.py)|삽입정렬&&이분탐색 활용||
+|[10844. 쉬운 계단 수](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/10844.py)|DP|풀참|
+|[16987. 계란으로 계란치기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/16987.py)|백트래킹|풀참|
 
 - 다시 푼 문제 -> ✅ UPDATED!
