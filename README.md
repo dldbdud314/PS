@@ -148,5 +148,10 @@
 |[2696. 중앙값 구하기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2696.py)|삽입정렬&&이분탐색 활용||
 |[10844. 쉬운 계단 수](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/10844.py)|DP|풀참|
 |[16987. 계란으로 계란치기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/16987.py)|백트래킹|풀참|
+|[2156. 포도주시식](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2156.py)|DP||
+|[1149. RGB거리](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1149.py)|DP||
+|[덧칠하기](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.py)|그리디||
+|[연속 펄스 부분수열의 합](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%97%B0%EC%86%8D%ED%8E%84%EC%8A%A4%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py)|DP|풀참| 
+|[무인도 여행](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%AC%B4%EC%9D%B8%EB%8F%84%EC%97%AC%ED%96%89.py)|DFS||
 
 - 다시 푼 문제 -> ✅ UPDATED!
