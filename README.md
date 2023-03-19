@@ -156,5 +156,7 @@
 |[숫자카드나누기](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%EB%82%98%EB%88%84%EA%B8%B0.py)|구현||
 |[부대복귀](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.py)|BFS||
 |[1713. 후보 추천하기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1713.py)|완전탐색||
+|[9465. 스티커](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/9465.py)|DP||
+|[10942. 팰린드롬?](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/10942.py)|DP|풀참| 
 
 - 다시 푼 문제 -> ✅ UPDATED!
