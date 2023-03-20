@@ -158,5 +158,7 @@
 |[1713. 후보 추천하기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1713.py)|완전탐색||
 |[9465. 스티커](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/9465.py)|DP||
 |[10942. 팰린드롬?](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/10942.py)|DP|풀참| 
+|[1495. 기타리스트](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1495.py)|1.BFS, 2.DP||
+|[17609. 회문](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/17609.py)|투포인터 활용|풀참->맞왜틀 시전하다 정답,,🫠|
 
 - 다시 푼 문제 -> ✅ UPDATED!
