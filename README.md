@@ -56,8 +56,6 @@
 |[디스크컨트롤러](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.py)|heap|다시~|
 |[단속카메라](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py)|그리디||
 |[다트게임](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84.py)|구현||
-|[단어뒤집기2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17413.py)|문자열처리||
-|[파일정리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/20291.py)|문자열처리||
 |[양궁대회](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C.py)|브루트포스||
 |[두큐합같게만들기](https://github.com/dldbdud314/PS_py/blob/master/programmers/%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0.py)|그리디||
 |[할인행사](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py)|투포인터||
@@ -98,6 +96,8 @@
 |[1202. 보석도둑](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1202.py)|힙 활용|시간 초과|
 |[15686. 치킨거리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/15686.py)|brute force||
 |[14502. 연구소](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/14502.py)|brute force+DFS||
+|[17413. 단어뒤집기2](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/17413.py)|문자열처리||
+|[20291. 파일정리](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/20291.py)|문자열처리||
 |[11047. 동전0](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/11047.py)|그리디||
 |[1946. 신입사원](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/1946.py)|그리디||
 |[2839. 설탕배달](https://github.com/dldbdud314/PS_py/blob/master/%EB%B0%B1%EC%A4%80/2839.py)|그리디||
