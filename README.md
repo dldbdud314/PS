@@ -164,6 +164,12 @@
 |[13565. 침투](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/13565.py)|DFS||
 |[11559. Puyo Puyo!](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11559.py)|구현, DFS||
 |[20055. 컨베이어 벨트 위의 로봇](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/20055.py)|시뮬(큐)||
+|[1541. 잃어버린 괄호](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1541.py)|문자열 파싱 + 그리디||
+|[1325. 효율적인 해킹](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1325.py)|ㅇ
+|[1541. 잃어버린 괄호](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1541.py)|문자열 파싱 + 그리디|dfs|❌|
+|[1535. 안녕](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1535.py)|1. DP, 2. BFS||
+|[1976. 여행 가자](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1976.py)|플로이드워셜||
+|[5582. 공통 부분 문자열](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/5582.py)|DP|풀참|
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
