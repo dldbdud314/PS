@@ -170,6 +170,10 @@
 |[1535. 안녕](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1535.py)|1. DP, 2. BFS||
 |[1976. 여행 가자](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1976.py)|플로이드워셜||
 |[5582. 공통 부분 문자열](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/5582.py)|DP|풀참|
+|[11060. 점프 점프](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11060.py)|DP||
+|[1012. 유기농배추](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1012.py)|DFS||
+|[2470. 두 용액](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2470.py)|구현 (정렬)||
+|[1937. 욕심쟁이판다](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1937.py)|DFS + DP|풀참|
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
