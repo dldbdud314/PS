@@ -12,8 +12,10 @@ def find_parent(p, x):
     return p[x]
 
 
-# 합치기 (두 노드는 서로 다른 집합인 게 보장)
+# 합치기
 def union_parent(p, x1, x2):
+    x1 = find_parent(p, x1)
+    x2 = find_parent(p, x2)
     if x1 < x2:  # 번호가 더 작은 쪽을 부모로 설정하기
         p[x2] = x1
     else:
