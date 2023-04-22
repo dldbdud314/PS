@@ -174,6 +174,8 @@
 |[1012. 유기농배추](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1012.py)|DFS||
 |[2470. 두 용액](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2470.py)|구현 (정렬)||
 |[1937. 욕심쟁이판다](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1937.py)|DFS + DP|풀참|
+|[20922. 겹치는 건 싫어](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/20922.py)|투포인터||
+|[13164. 행복유치원](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/13164.py)|그리디|풀참|
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
@@ -186,4 +188,4 @@
 - [x] [이진탐색](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89)
 - [x] [DP](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 - [x] [최단 경로](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)
-
+- [x] [기타 그래프](https://github.com/dldbdud314/PS/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%ED%83%80%EA%B7%B8%EB%9E%98%ED%94%84)
