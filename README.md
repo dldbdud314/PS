@@ -75,6 +75,9 @@
 |[부대복귀](https://github.com/dldbdud314/PS/blob/master/programmers/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.py)|BFS||
 |[파일명정렬](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.py)|문자열|✅UPDATED!|
 |[숫자문자열과영단어](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4.py)|구현||
+|[요격시스템](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%9A%94%EA%B2%A9%EC%8B%9C%EC%8A%A4%ED%85%9C.py)|Greedy|풀참|
+|[연속된부분수열의합](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%97%B0%EC%86%8D%EB%90%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py)|투포인터||
+|[광물캐기](https://github.com/dldbdud314/PS/blob/master/programmers/%EA%B4%91%EB%AC%BC%EC%BA%90%EA%B8%B0.py)|그리디||
 
 
 ### Baekjoon
@@ -168,7 +171,7 @@
 |[1325. 효율적인 해킹](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1325.py)|ㅇ
 |[1541. 잃어버린 괄호](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1541.py)|문자열 파싱 + 그리디|dfs|❌|
 |[1535. 안녕](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1535.py)|1. DP, 2. BFS||
-|[1976. 여행 가자](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1976.py)|플로이드워셜||
+|[1976. 여행 가자](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1976.py)|1.플로이드워셜, 2.유니온파인드||
 |[5582. 공통 부분 문자열](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/5582.py)|DP|풀참|
 |[11060. 점프 점프](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/11060.py)|DP||
 |[1012. 유기농배추](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1012.py)|DFS||
@@ -176,6 +179,8 @@
 |[1937. 욕심쟁이판다](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1937.py)|DFS + DP|풀참|
 |[20922. 겹치는 건 싫어](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/20922.py)|투포인터||
 |[13164. 행복유치원](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/13164.py)|그리디|풀참|
+|[17396. 백도어](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/17396.py)|다익스트라||
+|[1043. 거짓말](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1043.py)|DFS|| 
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
