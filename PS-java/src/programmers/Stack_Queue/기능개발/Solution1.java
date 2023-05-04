@@ -6,7 +6,7 @@ import java.util.*;
 class Solution1 {
     public int[] solution(int[] progresses, int[] speeds) {
         List<Integer> cnts = new ArrayList<>();
-        List<Integer> time = new ArrayList();
+        List<Integer> time = new ArrayList<>();
         int biggest = 0;
         for (int i = 0; i < speeds.length; i++){
             int p = progresses[i], s = speeds[i];
