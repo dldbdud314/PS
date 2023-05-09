@@ -78,6 +78,7 @@
 |[요격시스템](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%9A%94%EA%B2%A9%EC%8B%9C%EC%8A%A4%ED%85%9C.py)|Greedy|풀참|
 |[연속된부분수열의합](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%97%B0%EC%86%8D%EB%90%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py)|투포인터||
 |[광물캐기](https://github.com/dldbdud314/PS/blob/master/programmers/%EA%B4%91%EB%AC%BC%EC%BA%90%EA%B8%B0.py)|그리디||
+|[호텔대실](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%98%B8%ED%85%94%EB%8C%80%EC%8B%A4.py)|그리디, 완탐||
 
 
 ### Baekjoon
@@ -181,9 +182,15 @@
 |[13164. 행복유치원](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/13164.py)|그리디|풀참|
 |[17396. 백도어](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/17396.py)|다익스트라||
 |[1043. 거짓말](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1043.py)|DFS|| 
+|[1238. 파티](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1238.py)|다익스트라||
+|[3273. 두 수의 합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/3273.py)|해시||
+|[4179. 불!](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/4179.py)|시뮬레이션, BFS||
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
+### Leetcode
+
+https://github.com/dldbdud314/PS/tree/master/leetcode
 
 ### 이코테 
 - [x] [그리디](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94)
@@ -195,7 +202,7 @@
 - [x] [최단 경로](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C)
 - [x] [기타 그래프](https://github.com/dldbdud314/PS/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%ED%83%80%EA%B7%B8%EB%9E%98%ED%94%84)
 
-### 🔥🔥 Java 벼락치기
+### 🔥🔥 Java 벼락 〰️
 
 📍 [프로그래머스 강의](https://school.programmers.co.kr/learn/courses/13577/13577-java-%EC%96%B4%EC%84%9C%EC%99%80-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80)
 📍 [Codes](https://github.com/dldbdud314/PS/tree/master/PS-java/src/programmers)
