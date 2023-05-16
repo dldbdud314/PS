@@ -79,7 +79,10 @@
 |[연속된부분수열의합](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%97%B0%EC%86%8D%EB%90%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py)|투포인터||
 |[광물캐기](https://github.com/dldbdud314/PS/blob/master/programmers/%EA%B4%91%EB%AC%BC%EC%BA%90%EA%B8%B0.py)|그리디||
 |[호텔대실](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%98%B8%ED%85%94%EB%8C%80%EC%8B%A4.py)|그리디, 완탐||
-
+|[줄서는방법](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%A4%84%EC%84%9C%EB%8A%94%EB%B0%A9%EB%B2%95.py)|구현 - 수학||
+|[숫자블록](https://github.com/dldbdud314/PS/blob/master/programmers/%EC%88%AB%EC%9E%90%EB%B8%94%EB%A1%9D.py)|구현 - 수학|66.7 / 100.0 (TC13 + 효율성 FAIL)|
+|[개인정보수집유효기간](https://github.com/dldbdud314/PS/blob/master/programmers/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%88%98%EC%A7%91%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84.py)|구현 - 문자열 처리||
+|[표현가능한이진트리](https://github.com/dldbdud314/PS/blob/master/programmers/%ED%91%9C%ED%98%84%EA%B0%80%EB%8A%A5%ED%95%9C%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC.py)|recursive - 트리||
 
 ### Baekjoon
 
@@ -185,8 +188,13 @@
 |[1238. 파티](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1238.py)|다익스트라||
 |[3273. 두 수의 합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/3273.py)|해시||
 |[4179. 불!](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/4179.py)|시뮬레이션, BFS||
+|[1461. 도서관](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1461.py)|Greedy||
+|[2623. 음악 프로그램](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2623.py)|위상정렬||
+|[14425. 문자열 집합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/14425.py)|1. Trie, 2. 단순 Set||
 
 - 다시 푼 문제 -> ✅ UPDATED!
+
+#### [상세 풀이 모음](https://velog.io/@dldbdud314?tag=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 ### Leetcode
 
