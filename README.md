@@ -194,11 +194,11 @@
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
-#### [상세 풀이 모음](https://velog.io/@dldbdud314?tag=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+### Hackerrank && Leetcode
 
-### Leetcode
+https://github.com/dldbdud314/PS/tree/master/etc
 
-https://github.com/dldbdud314/PS/tree/master/leetcode
+### [상세 풀이 모음](https://velog.io/@dldbdud314?tag=%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 ### 이코테 
 - [x] [그리디](https://github.com/dldbdud314/PS_py/tree/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B7%B8%EB%A6%AC%EB%94%94)
