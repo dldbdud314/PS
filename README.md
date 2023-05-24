@@ -191,6 +191,12 @@
 |[1461. 도서관](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1461.py)|Greedy||
 |[2623. 음악 프로그램](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2623.py)|위상정렬||
 |[14425. 문자열 집합](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/14425.py)|1. Trie, 2. 단순 Set||
+|[16918. 봄버맨](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/16918.py)|구현(시뮬레이션)||
+|[2212. 센서](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2212.py)|그리디|유사: 행복유치원|
+|[10775. 공항](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/10775.py)|Union-find||
+|[2583. 영역 구하기](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/2583.py)|DFS||
+|[10026. 적록색약](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/10026.py)|DFS||
+|[1717. 집합의 표현](https://github.com/dldbdud314/PS/blob/master/%EB%B0%B1%EC%A4%80/1717.py)|Union-find||
 
 - 다시 푼 문제 -> ✅ UPDATED!
 
