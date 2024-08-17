@@ -1,36 +1,33 @@
-#단지번호붙이기
-cnt = 0
+# updated: 240817
+import sys
 
-def dfs(x, y, matrix):
-    if 0 > x or x >= len(matrix) or 0 > y or y >= len(matrix):
-        return
-    if matrix[x][y] < 1:
-        return
-    
-    global cnt #전역변수 - 누적하기 위해
-    matrix[x][y] = -1
-    cnt += 1
-    dirs = [(0, -1), (1, 0), (0, 1), (-1, 0)]
-    for dx, dy in dirs:
-        dfs(x+dx, y+dy, matrix)
-
-def get_counts(n, matrix):
-    global cnt #전역변수
-    ans = 0
-    house_counts = []
-    for i in range(n):
-        for j in range(n):
-            if matrix[i][j] == 1: 
-                dfs(i, j, matrix)
-                ans += 1
-                house_counts.append(cnt)
-                cnt = 0
-    return ans, house_counts
+input = sys.stdin.readline
 
 n = int(input())
-matrix = [list(map(int, input())) for _ in range(n)]
+MAP = [input() for _ in range(n)]
+visited = [[False] * n for _ in range(n)]
 
-ans, house_counts = get_counts(n, matrix)
-print(ans)
-house_counts.sort()
-for count in house_counts: print(count) 
+
+def dfs(cy, cx, vis):
+    global cnt
+    cnt += 1
+    vis[cy][cx] = True
+
+    for dy, dx in [(0, 1), (1, 0), (0, -1), (-1, 0)]:
+        if 0 <= cx + dx < n and 0 <= cy + dy < n and not vis[cy + dy][cx + dx] and MAP[cy + dy][cx + dx] == '1':
+            dfs(cy + dy, cx + dx, vis)
+
+
+counts = []
+total = 0
+for y in range(n):
+    for x in range(n):
+        if MAP[y][x] == '1' and not visited[y][x]:
+            cnt = 0
+            dfs(y, x, visited)
+            counts.append(cnt)
+            total += 1
+
+counts.sort()
+print(total)
+print(*counts, end='\n')
